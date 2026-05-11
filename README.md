@@ -23,7 +23,7 @@ padrões de produção de conteúdo por país, gênero e período.
 - **Documentários** são o segundo gênero mais comum — surpreendente para uma plataforma de entretenimento
 
 ## Dataset
-Dataset disponível no Kaggle: [Netflix Movies and TV Shows]((https://www.kaggle.com/datasets/shivamb/netflix-shows))
+Dataset disponível no Kaggle: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Como Executar
 1. Clone o repositório
