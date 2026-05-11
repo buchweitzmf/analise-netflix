@@ -27,11 +27,11 @@ Dataset disponível no Kaggle: [Netflix Movies and TV Shows]((https://www.kaggle
 
 ## Como Executar
 1. Clone o repositório
-2. Configure o PostgreSQL e importe o CSV para a tabela `db_netflix`
+2. Configure o PostgreSQL e importe o CSV para a tabela `db_netflix.sql`
 
-3. Abra o arquivo `analise_netflix.ipynb` no Jupyter
+3. Abra o arquivo `netflix_db.ipynb` no Jupyter
 4. Execute as células em ordem
-5. O dashboard está disponível em `dashboard_netflix.pbix`
+5. O dashboard está disponível em `netflix-analytics.pbix`
 
 ## Dashboard
 <img width="1764" height="990" alt="image" src="https://github.com/user-attachments/assets/46939d81-3c3c-40cd-a7e7-f7569a3d099a" />
